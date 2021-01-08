@@ -1,3 +1,6 @@
 [submodule "git_fronter"]
 	path = git_fronter
 	url = git@knoxnoe.github:knoxnoe/git_fronter.git
+[submodule "git_server"]
+	path = git_server
+	url = git@knoxnoe.github:knoxnoe/git_server.git
