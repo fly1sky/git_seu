@@ -1,0 +1,3 @@
+[submodule "git_fronter"]
+	path = git_fronter
+	url = git@knoxnoe.github:knoxnoe/git_fronter.git
